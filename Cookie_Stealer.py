@@ -101,8 +101,6 @@ def openWebPage(ipaddrs , cookies ):
     cookie_name = 'Cookie'
     cookie_value = cookies[0]
 
-    # URL of the site you want to open
-    #url = "https://example.com"
 
     # Your cookie as a dictionary
     cookie = {
